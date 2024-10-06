@@ -55,5 +55,9 @@
     "@types/react-router-hash-link": "^2.4.4",
     "@types/styled-components": "^5.1.18",
     "@types/validator": "^13.7.1"
-  }
+  },
+  "engines": {
+  "node": "v22.1.0"
+}
+
 }
